@@ -1,7 +1,7 @@
 'use strict';
 // Scope-specific caches avoid touching other apps on the same hosting origin.
 const PREFIX='mio-italiano:'+self.registration.scope+':';
-const CACHE=PREFIX+'2026-11-19';
+const CACHE=PREFIX+'2026-11-19-r2';
 const FILES=['./','./index.html','./styles.css','./app.js','./course.json','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(CACHE).then(async cache=>{

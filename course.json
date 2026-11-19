@@ -60,27 +60,32 @@
         {
           "it": "ciao",
           "en": "hello / bye (informal)",
-          "no": "hei / ha det (uformelt)"
+          "no": "hei / ha det (uformelt)",
+          "progressIndex": 0
         },
         {
           "it": "buongiorno",
           "en": "good morning",
-          "no": "god morgen"
+          "no": "god morgen",
+          "progressIndex": 1
         },
         {
           "it": "buonasera",
           "en": "good evening",
-          "no": "god kveld"
+          "no": "god kveld",
+          "progressIndex": 2
         },
         {
           "it": "come va?",
           "en": "how is it going?",
-          "no": "hvordan går det?"
+          "no": "hvordan går det?",
+          "progressIndex": 3
         },
         {
           "it": "tutto bene",
           "en": "all good",
-          "no": "alt bra"
+          "no": "alt bra",
+          "progressIndex": 4
         }
       ],
       "notes": "Ciao is informal and means both hello and goodbye. Buongiorno and buonasera are polite greetings."
@@ -95,27 +100,32 @@
         {
           "it": "che significa?",
           "en": "what does it mean?",
-          "no": "hva betyr det?"
+          "no": "hva betyr det?",
+          "progressIndex": 0
         },
         {
           "it": "come si dice…?",
           "en": "how do you say…?",
-          "no": "hvordan sier man…?"
+          "no": "hvordan sier man…?",
+          "progressIndex": 1
         },
         {
           "it": "non lo so",
           "en": "I do not know",
-          "no": "jeg vet ikke"
+          "no": "jeg vet ikke",
+          "progressIndex": 2
         },
         {
           "it": "ho una domanda",
           "en": "I have a question",
-          "no": "jeg har et spørsmål"
+          "no": "jeg har et spørsmål",
+          "progressIndex": 3
         },
         {
           "it": "puoi ripetere?",
           "en": "can you repeat?",
-          "no": "kan du gjenta?"
+          "no": "kan du gjenta?",
+          "progressIndex": 4
         }
       ],
       "notes": "Come si dice…? asks how to say a word or phrase. Puoi is informal singular; può is the polite singular form."
@@ -130,27 +140,32 @@
         {
           "it": "mi dispiace",
           "en": "I am sorry",
-          "no": "beklager"
+          "no": "beklager",
+          "progressIndex": 0
         },
         {
           "it": "buona serata",
           "en": "have a nice evening",
-          "no": "ha en fin kveld"
+          "no": "ha en fin kveld",
+          "progressIndex": 1
         },
         {
           "it": "grazie",
           "en": "thank you",
-          "no": "takk"
+          "no": "takk",
+          "progressIndex": 2
         },
         {
           "it": "per favore",
           "en": "please",
-          "no": "vær så snill"
+          "no": "vær så snill",
+          "progressIndex": 3
         },
         {
           "it": "a presto",
           "en": "see you soon",
-          "no": "sees snart"
+          "no": "sees snart",
+          "progressIndex": 4
         }
       ],
       "notes": "Buona serata wishes someone a pleasant evening when parting. Buonasera is a greeting. Per favore makes a request polite."
@@ -165,27 +180,32 @@
         {
           "it": "dov’è il bagno?",
           "en": "where is the bathroom?",
-          "no": "hvor er toalettet?"
+          "no": "hvor er toalettet?",
+          "progressIndex": 0
         },
         {
           "it": "hai una penna?",
           "en": "do you have a pen?",
-          "no": "har du en penn?"
+          "no": "har du en penn?",
+          "progressIndex": 1
         },
         {
           "it": "devo andare",
           "en": "I must go",
-          "no": "jeg må dra"
+          "no": "jeg må dra",
+          "progressIndex": 2
         },
         {
           "it": "buona giornata",
           "en": "have a nice day",
-          "no": "ha en fin dag"
+          "no": "ha en fin dag",
+          "progressIndex": 3
         },
         {
           "it": "ci vediamo la prossima settimana",
           "en": "see you next week",
-          "no": "vi sees neste uke"
+          "no": "vi sees neste uke",
+          "progressIndex": 4
         }
       ],
       "notes": "Italian often omits subject pronouns: hai already means you have. Dov’è combines dove + è. Devo is followed by an infinitive: devo andare."
@@ -200,102 +220,122 @@
         {
           "it": "uno",
           "en": "one",
-          "no": "én"
+          "no": "én",
+          "progressIndex": 0
         },
         {
           "it": "due",
           "en": "two",
-          "no": "to"
+          "no": "to",
+          "progressIndex": 1
         },
         {
           "it": "tre",
           "en": "three",
-          "no": "tre"
+          "no": "tre",
+          "progressIndex": 2
         },
         {
           "it": "quattro",
           "en": "four",
-          "no": "fire"
+          "no": "fire",
+          "progressIndex": 3
         },
         {
           "it": "cinque",
           "en": "five",
-          "no": "fem"
+          "no": "fem",
+          "progressIndex": 4
         },
         {
           "it": "sei",
           "en": "six",
-          "no": "seks"
+          "no": "seks",
+          "progressIndex": 5
         },
         {
           "it": "sette",
           "en": "seven",
-          "no": "sju"
+          "no": "sju",
+          "progressIndex": 6
         },
         {
           "it": "otto",
           "en": "eight",
-          "no": "åtte"
+          "no": "åtte",
+          "progressIndex": 7
         },
         {
           "it": "nove",
           "en": "nine",
-          "no": "ni"
+          "no": "ni",
+          "progressIndex": 8
         },
         {
           "it": "dieci",
           "en": "ten",
-          "no": "ti"
+          "no": "ti",
+          "progressIndex": 9
         },
         {
           "it": "undici",
           "en": "eleven",
-          "no": "elleve"
+          "no": "elleve",
+          "progressIndex": 10
         },
         {
           "it": "dodici",
           "en": "twelve",
-          "no": "tolv"
+          "no": "tolv",
+          "progressIndex": 11
         },
         {
           "it": "tredici",
           "en": "thirteen",
-          "no": "tretten"
+          "no": "tretten",
+          "progressIndex": 12
         },
         {
           "it": "quattordici",
           "en": "fourteen",
-          "no": "fjorten"
+          "no": "fjorten",
+          "progressIndex": 13
         },
         {
           "it": "quindici",
           "en": "fifteen",
-          "no": "femten"
+          "no": "femten",
+          "progressIndex": 14
         },
         {
           "it": "sedici",
           "en": "sixteen",
-          "no": "seksten"
+          "no": "seksten",
+          "progressIndex": 15
         },
         {
           "it": "diciassette",
           "en": "seventeen",
-          "no": "sytten"
+          "no": "sytten",
+          "progressIndex": 16
         },
         {
           "it": "diciotto",
           "en": "eighteen",
-          "no": "atten"
+          "no": "atten",
+          "progressIndex": 17
         },
         {
           "it": "diciannove",
           "en": "nineteen",
-          "no": "nitten"
+          "no": "nitten",
+          "progressIndex": 18
         },
         {
           "it": "venti",
           "en": "twenty",
-          "no": "tjue"
+          "no": "tjue",
+          "progressIndex": 19
         }
       ],
       "notes": "Memorize 1–20 as the building blocks. The number sei (six) is spelled like tu sei (you are); context tells you the meaning."
@@ -310,67 +350,80 @@
         {
           "it": "venti",
           "en": "twenty",
-          "no": "tjue"
+          "no": "tjue",
+          "progressIndex": 0
         },
         {
           "it": "trenta",
           "en": "thirty",
-          "no": "tretti"
+          "no": "tretti",
+          "progressIndex": 1
         },
         {
           "it": "quaranta",
           "en": "forty",
-          "no": "førti"
+          "no": "førti",
+          "progressIndex": 2
         },
         {
           "it": "cinquanta",
           "en": "fifty",
-          "no": "femti"
+          "no": "femti",
+          "progressIndex": 3
         },
         {
           "it": "sessanta",
           "en": "sixty",
-          "no": "seksti"
+          "no": "seksti",
+          "progressIndex": 4
         },
         {
           "it": "settanta",
           "en": "seventy",
-          "no": "sytti"
+          "no": "sytti",
+          "progressIndex": 5
         },
         {
           "it": "ottanta",
           "en": "eighty",
-          "no": "åtti"
+          "no": "åtti",
+          "progressIndex": 6
         },
         {
           "it": "novanta",
           "en": "ninety",
-          "no": "nitti"
+          "no": "nitti",
+          "progressIndex": 7
         },
         {
           "it": "cento",
           "en": "one hundred",
-          "no": "hundre"
+          "no": "hundre",
+          "progressIndex": 8
         },
         {
           "it": "ventuno",
           "en": "twenty-one",
-          "no": "tjueen"
+          "no": "tjueen",
+          "progressIndex": 9
         },
         {
           "it": "trentadue",
           "en": "thirty-two",
-          "no": "trettito"
+          "no": "trettito",
+          "progressIndex": 10
         },
         {
           "it": "quarantatré",
           "en": "forty-three",
-          "no": "førtitre"
+          "no": "førtitre",
+          "progressIndex": 11
         },
         {
           "it": "novantotto",
           "en": "ninety-eight",
-          "no": "nittiåtte"
+          "no": "nittiåtte",
+          "progressIndex": 12
         }
       ],
       "notes": "Write tens + units as one word. Drop the final vowel of the tens before uno or otto: ventuno, ventotto. Compounds ending in tre take an acute accent: ventitré, quarantatré; tre alone has none."
@@ -385,112 +438,134 @@
         {
           "it": "lunedì",
           "en": "Monday",
-          "no": "mandag"
+          "no": "mandag",
+          "progressIndex": 0
         },
         {
           "it": "martedì",
           "en": "Tuesday",
-          "no": "tirsdag"
+          "no": "tirsdag",
+          "progressIndex": 1
         },
         {
           "it": "mercoledì",
           "en": "Wednesday",
-          "no": "onsdag"
+          "no": "onsdag",
+          "progressIndex": 2
         },
         {
           "it": "giovedì",
           "en": "Thursday",
-          "no": "torsdag"
+          "no": "torsdag",
+          "progressIndex": 3
         },
         {
           "it": "venerdì",
           "en": "Friday",
-          "no": "fredag"
+          "no": "fredag",
+          "progressIndex": 4
         },
         {
           "it": "sabato",
           "en": "Saturday",
-          "no": "lørdag"
+          "no": "lørdag",
+          "progressIndex": 5
         },
         {
           "it": "domenica",
           "en": "Sunday",
-          "no": "søndag"
+          "no": "søndag",
+          "progressIndex": 6
         },
         {
           "it": "ieri",
           "en": "yesterday",
-          "no": "i går"
+          "no": "i går",
+          "progressIndex": 7
         },
         {
           "it": "oggi",
           "en": "today",
-          "no": "i dag"
+          "no": "i dag",
+          "progressIndex": 8
         },
         {
           "it": "domani",
           "en": "tomorrow",
-          "no": "i morgen"
+          "no": "i morgen",
+          "progressIndex": 9
         },
         {
           "it": "che giorno è oggi?",
           "en": "what day is it today?",
-          "no": "hvilken dag er det i dag?"
+          "no": "hvilken dag er det i dag?",
+          "progressIndex": 10
         },
         {
           "it": "è il primo maggio",
           "en": "it is the first of May",
-          "no": "det er første mai"
+          "no": "det er første mai",
+          "progressIndex": 11
         },
         {
           "it": "è il due maggio",
           "en": "it is the second of May",
-          "no": "det er andre mai"
+          "no": "det er andre mai",
+          "progressIndex": 12
         },
         {
           "it": "che ore sono?",
           "en": "what time is it?",
-          "no": "hva er klokka?"
+          "no": "hva er klokka?",
+          "progressIndex": 13
         },
         {
           "it": "è l’una",
           "en": "it is one o’clock",
-          "no": "klokka er ett"
+          "no": "klokka er ett",
+          "progressIndex": 14
         },
         {
           "it": "sono le otto",
           "en": "it is eight o’clock",
-          "no": "klokka er åtte"
+          "no": "klokka er åtte",
+          "progressIndex": 15
         },
         {
           "it": "sono le otto e un quarto",
           "en": "it is quarter past eight",
-          "no": "klokka er kvart over åtte"
+          "no": "klokka er kvart over åtte",
+          "progressIndex": 16
         },
         {
           "it": "sono le otto e mezza",
           "en": "it is half past eight",
-          "no": "klokka er halv ni"
+          "no": "klokka er halv ni",
+          "progressIndex": 17
         },
         {
           "it": "sono le nove meno un quarto",
           "en": "it is quarter to nine",
-          "no": "klokka er kvart på ni"
+          "no": "klokka er kvart på ni",
+          "progressIndex": 18
         },
         {
           "it": "è mezzogiorno",
           "en": "it is noon",
-          "no": "klokka er tolv på dagen"
+          "no": "klokka er tolv på dagen",
+          "progressIndex": 19
         },
         {
           "it": "è mezzanotte",
           "en": "it is midnight",
-          "no": "klokka er midnatt"
+          "no": "klokka er midnatt",
+          "progressIndex": 20
         },
         {
           "it": "alle sei e mezza",
           "en": "at half past six",
-          "no": "klokka halv sju"
+          "no": "klokka halv sju",
+          "progressIndex": 21
         }
       ],
       "notes": "Days and months normally use lowercase. Use primo for the first day of a month and cardinal numbers after that. For clock time use è l’una, è mezzogiorno, è mezzanotte, but sono le… for other hours. E mezza means half past; meno un quarto means quarter to. Alle introduces a time, but use all’una. Clock examples come from PDF p. 26."
@@ -505,82 +580,98 @@
         {
           "it": "gennaio",
           "en": "January",
-          "no": "januar"
+          "no": "januar",
+          "progressIndex": 0
         },
         {
           "it": "febbraio",
           "en": "February",
-          "no": "februar"
+          "no": "februar",
+          "progressIndex": 1
         },
         {
           "it": "marzo",
           "en": "March",
-          "no": "mars"
+          "no": "mars",
+          "progressIndex": 2
         },
         {
           "it": "aprile",
           "en": "April",
-          "no": "april"
+          "no": "april",
+          "progressIndex": 3
         },
         {
           "it": "maggio",
           "en": "May",
-          "no": "mai"
+          "no": "mai",
+          "progressIndex": 4
         },
         {
           "it": "giugno",
           "en": "June",
-          "no": "juni"
+          "no": "juni",
+          "progressIndex": 5
         },
         {
           "it": "luglio",
           "en": "July",
-          "no": "juli"
+          "no": "juli",
+          "progressIndex": 6
         },
         {
           "it": "agosto",
           "en": "August",
-          "no": "august"
+          "no": "august",
+          "progressIndex": 7
         },
         {
           "it": "settembre",
           "en": "September",
-          "no": "september"
+          "no": "september",
+          "progressIndex": 8
         },
         {
           "it": "ottobre",
           "en": "October",
-          "no": "oktober"
+          "no": "oktober",
+          "progressIndex": 9
         },
         {
           "it": "novembre",
           "en": "November",
-          "no": "november"
+          "no": "november",
+          "progressIndex": 10
         },
         {
           "it": "dicembre",
           "en": "December",
-          "no": "desember"
+          "no": "desember",
+          "progressIndex": 11
         },
         {
           "it": "inverno",
           "en": "winter",
-          "no": "vinter"
+          "no": "vinter",
+          "progressIndex": 12
         },
         {
           "it": "primavera",
           "en": "spring",
-          "no": "vår"
+          "no": "vår",
+          "progressIndex": 13
         },
         {
           "it": "estate",
           "en": "summer",
-          "no": "sommer"
+          "no": "sommer",
+          "progressIndex": 14
         },
         {
           "it": "autunno",
           "en": "autumn",
-          "no": "høst"
+          "no": "høst",
+          "progressIndex": 15
         }
       ],
       "notes": "Months and seasons normally have lowercase initials in Italian. In primavera / estate / autunno / inverno means in spring / summer / autumn / winter."
@@ -595,52 +686,62 @@
         {
           "it": "ci (cinema)",
           "en": "c sounds like ch in chip",
-          "no": "c uttales som tsj i tsjekkisk"
+          "no": "c uttales som tsj i tsjekkisk",
+          "progressIndex": 0
         },
         {
           "it": "chi (Chianti)",
           "en": "ch sounds like k in key",
-          "no": "ch uttales som k"
+          "no": "ch uttales som k",
+          "progressIndex": 1
         },
         {
           "it": "gi (giro)",
           "en": "g sounds like j in gin",
-          "no": "g uttales som dj"
+          "no": "g uttales som dj",
+          "progressIndex": 2
         },
         {
           "it": "ghi (funghi)",
           "en": "gh sounds like g in give",
-          "no": "gh uttales som hard g"
+          "no": "gh uttales som hard g",
+          "progressIndex": 3
         },
         {
           "it": "gn (lasagna)",
           "en": "gn is a single ny-like sound",
-          "no": "gn har en nj-lignende lyd"
+          "no": "gn har en nj-lignende lyd",
+          "progressIndex": 4
         },
         {
           "it": "gli (figlio)",
           "en": "gli usually has a palatal l sound",
-          "no": "gli har vanligvis en lj-lignende lyd"
+          "no": "gli har vanligvis en lj-lignende lyd",
+          "progressIndex": 5
         },
         {
           "it": "qu (quando)",
           "en": "qu sounds like kw in queen",
-          "no": "qu uttales som k etterfulgt av engelsk w"
+          "no": "qu uttales som k etterfulgt av engelsk w",
+          "progressIndex": 6
         },
         {
           "it": "sce / sci (pesce / sciare)",
           "en": "sc before e or i sounds like sh",
-          "no": "sc foran e eller i har en sj-lyd"
+          "no": "sc foran e eller i har en sj-lyd",
+          "progressIndex": 7
         },
         {
           "it": "ca / co / cu",
           "en": "c before a, o or u has a hard k sound",
-          "no": "c foran a, o eller u har en hard k-lyd"
+          "no": "c foran a, o eller u har en hard k-lyd",
+          "progressIndex": 8
         },
         {
           "it": "ga / go / gu",
           "en": "g before a, o or u has a hard g sound",
-          "no": "g foran a, o eller u har en hard g-lyd"
+          "no": "g foran a, o eller u har en hard g-lyd",
+          "progressIndex": 9
         }
       ],
       "notes": "Sound guides are approximations, not English spellings. C and g are soft before e/i; h keeps them hard in che/chi and ghe/ghi. Gli has the palatal sound in figlio and famiglia, but not in every word: glicine has hard gl. Double consonants are held longer. Stress usually falls on the next-to-last syllable, with exceptions.",
@@ -656,32 +757,38 @@
         {
           "it": "bambino",
           "en": "boy",
-          "no": "gutt"
+          "no": "gutt",
+          "progressIndex": 0
         },
         {
           "it": "bambina",
           "en": "girl",
-          "no": "jente"
+          "no": "jente",
+          "progressIndex": 1
         },
         {
           "it": "tavolo",
           "en": "table",
-          "no": "bord"
+          "no": "bord",
+          "progressIndex": 2
         },
         {
           "it": "sedia",
           "en": "chair",
-          "no": "stol"
+          "no": "stol",
+          "progressIndex": 3
         },
         {
           "it": "gatto",
           "en": "cat (male)",
-          "no": "hannkatt"
+          "no": "hannkatt",
+          "progressIndex": 4
         },
         {
           "it": "gatta",
           "en": "cat (female)",
-          "no": "hunnkatt"
+          "no": "hunnkatt",
+          "progressIndex": 5
         }
       ],
       "notes": "Nouns have grammatical gender. Most nouns in -o are masculine and most in -a feminine, but there are exceptions. Nouns in -e can be either: il fiore, la notte. Learn each noun with its article."
@@ -696,22 +803,26 @@
         {
           "it": "bambino → bambini",
           "en": "boy → boys",
-          "no": "gutt → gutter"
+          "no": "gutt → gutter",
+          "progressIndex": 0
         },
         {
           "it": "tavolo → tavoli",
           "en": "table → tables",
-          "no": "bord → bord (flertall)"
+          "no": "bord → bord (flertall)",
+          "progressIndex": 1
         },
         {
           "it": "gatto → gatti",
           "en": "cat → cats",
-          "no": "katt → katter"
+          "no": "katt → katter",
+          "progressIndex": 2
         },
         {
           "it": "muro → muri",
           "en": "wall → walls",
-          "no": "mur → murer"
+          "no": "mur → murer",
+          "progressIndex": 3
         }
       ],
       "notes": "Most nouns ending in -o change to -i in the plural. This is a pattern, not a rule for every noun. Masculine plural can also refer to a mixed group."
@@ -726,22 +837,26 @@
         {
           "it": "bambina → bambine",
           "en": "girl → girls",
-          "no": "jente → jenter"
+          "no": "jente → jenter",
+          "progressIndex": 0
         },
         {
           "it": "sedia → sedie",
           "en": "chair → chairs",
-          "no": "stol → stoler"
+          "no": "stol → stoler",
+          "progressIndex": 1
         },
         {
           "it": "finestra → finestre",
           "en": "window → windows",
-          "no": "vindu → vinduer"
+          "no": "vindu → vinduer",
+          "progressIndex": 2
         },
         {
           "it": "gatta → gatte",
           "en": "female cat → female cats",
-          "no": "hunnkatt → hunnkatter"
+          "no": "hunnkatt → hunnkatter",
+          "progressIndex": 3
         }
       ],
       "notes": "Most feminine nouns ending in -a change to -e. This does not apply to masculine nouns such as il problema → i problemi. Preserve a hard c/g before e with h when needed: amica → amiche."
@@ -756,22 +871,26 @@
         {
           "it": "fiore → fiori",
           "en": "flower → flowers",
-          "no": "blomst → blomster"
+          "no": "blomst → blomster",
+          "progressIndex": 0
         },
         {
           "it": "notte → notti",
           "en": "night → nights",
-          "no": "natt → netter"
+          "no": "natt → netter",
+          "progressIndex": 1
         },
         {
           "it": "ristorante → ristoranti",
           "en": "restaurant → restaurants",
-          "no": "restaurant → restauranter"
+          "no": "restaurant → restauranter",
+          "progressIndex": 2
         },
         {
           "it": "cantante → cantanti",
           "en": "singer → singers",
-          "no": "sanger → sangere"
+          "no": "sanger → sangere",
+          "progressIndex": 3
         }
       ],
       "notes": "Nouns ending in -e usually change to -i, whether masculine or feminine. The ending alone does not reveal gender: il fiore, la notte."
@@ -786,42 +905,50 @@
         {
           "it": "il bambino",
           "en": "the boy",
-          "no": "gutten"
+          "no": "gutten",
+          "progressIndex": 0
         },
         {
           "it": "la bambina",
           "en": "the girl",
-          "no": "jenta"
+          "no": "jenta",
+          "progressIndex": 1
         },
         {
           "it": "i bambini",
           "en": "the boys",
-          "no": "guttene"
+          "no": "guttene",
+          "progressIndex": 2
         },
         {
           "it": "le bambine",
           "en": "the girls",
-          "no": "jentene"
+          "no": "jentene",
+          "progressIndex": 3
         },
         {
           "it": "l’amico",
           "en": "the friend (male)",
-          "no": "vennen"
+          "no": "vennen",
+          "progressIndex": 4
         },
         {
           "it": "gli amici",
           "en": "the friends (male/mixed)",
-          "no": "vennene"
+          "no": "vennene",
+          "progressIndex": 5
         },
         {
           "it": "l’amica",
           "en": "the friend (female)",
-          "no": "venninnen"
+          "no": "venninnen",
+          "progressIndex": 6
         },
         {
           "it": "le amiche",
           "en": "the friends (female)",
-          "no": "venninnene"
+          "no": "venninnene",
+          "progressIndex": 7
         }
       ],
       "notes": "Masculine: il → i before most consonants; l’ → gli before vowels. Feminine: la or l’ → le. Elision in l’amica does not change its gender; its plural is le amiche."
@@ -836,42 +963,50 @@
         {
           "it": "lo studente",
           "en": "the student",
-          "no": "studenten"
+          "no": "studenten",
+          "progressIndex": 0
         },
         {
           "it": "gli studenti",
           "en": "the students",
-          "no": "studentene"
+          "no": "studentene",
+          "progressIndex": 1
         },
         {
           "it": "un tavolo",
           "en": "a table",
-          "no": "et bord"
+          "no": "et bord",
+          "progressIndex": 2
         },
         {
           "it": "una sedia",
           "en": "a chair",
-          "no": "en stol"
+          "no": "en stol",
+          "progressIndex": 3
         },
         {
           "it": "un’amica",
           "en": "a female friend",
-          "no": "en venninne"
+          "no": "en venninne",
+          "progressIndex": 4
         },
         {
           "it": "uno zio",
           "en": "an uncle",
-          "no": "en onkel"
+          "no": "en onkel",
+          "progressIndex": 5
         },
         {
           "it": "un amico",
           "en": "a male friend",
-          "no": "en venn"
+          "no": "en venn",
+          "progressIndex": 6
         },
         {
           "it": "uno studente",
           "en": "a student (male)",
-          "no": "en student (mann)"
+          "no": "en student (mann)",
+          "progressIndex": 7
         }
       ],
       "notes": "Masculine lo/uno precede s + consonant, z, gn, ps, pn, x and consonantal y; lo becomes gli in the plural. Use un before other masculine nouns, including vowels: un amico (no apostrophe). Feminine una becomes un’ before a vowel: un’amica. Borrowed nouns are often unchanged in the plural, but are not always masculine."
@@ -886,37 +1021,44 @@
         {
           "it": "io",
           "en": "I",
-          "no": "jeg"
+          "no": "jeg",
+          "progressIndex": 0
         },
         {
           "it": "tu",
           "en": "you (singular)",
-          "no": "du"
+          "no": "du",
+          "progressIndex": 1
         },
         {
           "it": "lui",
           "en": "he",
-          "no": "han"
+          "no": "han",
+          "progressIndex": 2
         },
         {
           "it": "lei",
           "en": "she",
-          "no": "hun"
+          "no": "hun",
+          "progressIndex": 3
         },
         {
           "it": "noi",
           "en": "we",
-          "no": "vi"
+          "no": "vi",
+          "progressIndex": 4
         },
         {
           "it": "voi",
           "en": "you (plural)",
-          "no": "dere"
+          "no": "dere",
+          "progressIndex": 5
         },
         {
           "it": "loro",
           "en": "they",
-          "no": "de"
+          "no": "de",
+          "progressIndex": 6
         }
       ],
       "notes": "The six verb persons are io, tu, lui/lei, noi, voi, loro. Italian commonly omits subject pronouns. Formal Lei means you and takes the third-person singular verb form; voi is plural."
@@ -931,97 +1073,116 @@
         {
           "it": "parlare",
           "en": "to speak",
-          "no": "å snakke"
+          "no": "å snakke",
+          "progressIndex": 0
         },
         {
           "it": "io parlo",
           "en": "I speak",
-          "no": "jeg snakker"
+          "no": "jeg snakker",
+          "progressIndex": 1
         },
         {
           "it": "tu parli",
           "en": "you speak",
-          "no": "du snakker"
+          "no": "du snakker",
+          "progressIndex": 2
         },
         {
           "it": "lui/lei parla",
           "en": "he/she speaks",
-          "no": "han/hun snakker"
+          "no": "han/hun snakker",
+          "progressIndex": 3
         },
         {
           "it": "noi parliamo",
           "en": "we speak",
-          "no": "vi snakker"
+          "no": "vi snakker",
+          "progressIndex": 4
         },
         {
           "it": "voi parlate",
           "en": "you (plural) speak",
-          "no": "dere snakker"
+          "no": "dere snakker",
+          "progressIndex": 5
         },
         {
           "it": "loro parlano",
           "en": "they speak",
-          "no": "de snakker"
+          "no": "de snakker",
+          "progressIndex": 6
         },
         {
           "it": "io abito",
           "en": "I live",
-          "no": "jeg bor"
+          "no": "jeg bor",
+          "progressIndex": 7
         },
         {
           "it": "tu abiti",
           "en": "you live",
-          "no": "du bor"
+          "no": "du bor",
+          "progressIndex": 8
         },
         {
           "it": "lui/lei abita",
           "en": "he/she lives",
-          "no": "han/hun bor"
+          "no": "han/hun bor",
+          "progressIndex": 9
         },
         {
           "it": "noi abitiamo",
           "en": "we live",
-          "no": "vi bor"
+          "no": "vi bor",
+          "progressIndex": 10
         },
         {
           "it": "voi abitate",
           "en": "you (plural) live",
-          "no": "dere bor"
+          "no": "dere bor",
+          "progressIndex": 11
         },
         {
           "it": "loro abitano",
           "en": "they live",
-          "no": "de bor"
+          "no": "de bor",
+          "progressIndex": 12
         },
         {
           "it": "io lavoro",
           "en": "I work",
-          "no": "jeg jobber"
+          "no": "jeg jobber",
+          "progressIndex": 13
         },
         {
           "it": "tu lavori",
           "en": "you work",
-          "no": "du jobber"
+          "no": "du jobber",
+          "progressIndex": 14
         },
         {
           "it": "lui/lei lavora",
           "en": "he/she works",
-          "no": "han/hun jobber"
+          "no": "han/hun jobber",
+          "progressIndex": 15
         },
         {
           "it": "noi lavoriamo",
           "en": "we work",
-          "no": "vi jobber"
+          "no": "vi jobber",
+          "progressIndex": 16
         },
         {
           "it": "voi lavorate",
           "en": "you (plural) work",
-          "no": "dere jobber"
+          "no": "dere jobber",
+          "progressIndex": 17
         },
         {
           "it": "loro lavorano",
           "en": "they work",
-          "no": "de jobber"
+          "no": "de jobber",
+          "progressIndex": 18
         }
       ],
       "conjugations": [
@@ -1074,67 +1235,80 @@
         {
           "it": "scrivere",
           "en": "to write",
-          "no": "å skrive"
+          "no": "å skrive",
+          "progressIndex": 0
         },
         {
           "it": "io scrivo",
           "en": "I write",
-          "no": "jeg skriver"
+          "no": "jeg skriver",
+          "progressIndex": 1
         },
         {
           "it": "tu scrivi",
           "en": "you write",
-          "no": "du skriver"
+          "no": "du skriver",
+          "progressIndex": 2
         },
         {
           "it": "lui/lei scrive",
           "en": "he/she writes",
-          "no": "han/hun skriver"
+          "no": "han/hun skriver",
+          "progressIndex": 3
         },
         {
           "it": "noi scriviamo",
           "en": "we write",
-          "no": "vi skriver"
+          "no": "vi skriver",
+          "progressIndex": 4
         },
         {
           "it": "voi scrivete",
           "en": "you (plural) write",
-          "no": "dere skriver"
+          "no": "dere skriver",
+          "progressIndex": 5
         },
         {
           "it": "loro scrivono",
           "en": "they write",
-          "no": "de skriver"
+          "no": "de skriver",
+          "progressIndex": 6
         },
         {
           "it": "io vedo",
           "en": "I see",
-          "no": "jeg ser"
+          "no": "jeg ser",
+          "progressIndex": 7
         },
         {
           "it": "tu vedi",
           "en": "you see",
-          "no": "du ser"
+          "no": "du ser",
+          "progressIndex": 8
         },
         {
           "it": "lui/lei vede",
           "en": "he/she sees",
-          "no": "han/hun ser"
+          "no": "han/hun ser",
+          "progressIndex": 9
         },
         {
           "it": "noi vediamo",
           "en": "we see",
-          "no": "vi ser"
+          "no": "vi ser",
+          "progressIndex": 10
         },
         {
           "it": "voi vedete",
           "en": "you (plural) see",
-          "no": "dere ser"
+          "no": "dere ser",
+          "progressIndex": 11
         },
         {
           "it": "loro vedono",
           "en": "they see",
-          "no": "de ser"
+          "no": "de ser",
+          "progressIndex": 12
         }
       ],
       "conjugations": [
@@ -1175,67 +1349,80 @@
         {
           "it": "dormire",
           "en": "to sleep",
-          "no": "å sove"
+          "no": "å sove",
+          "progressIndex": 0
         },
         {
           "it": "io dormo",
           "en": "I sleep",
-          "no": "jeg sover"
+          "no": "jeg sover",
+          "progressIndex": 1
         },
         {
           "it": "tu dormi",
           "en": "you sleep",
-          "no": "du sover"
+          "no": "du sover",
+          "progressIndex": 2
         },
         {
           "it": "lui/lei dorme",
           "en": "he/she sleeps",
-          "no": "han/hun sover"
+          "no": "han/hun sover",
+          "progressIndex": 3
         },
         {
           "it": "noi dormiamo",
           "en": "we sleep",
-          "no": "vi sover"
+          "no": "vi sover",
+          "progressIndex": 4
         },
         {
           "it": "voi dormite",
           "en": "you (plural) sleep",
-          "no": "dere sover"
+          "no": "dere sover",
+          "progressIndex": 5
         },
         {
           "it": "loro dormono",
           "en": "they sleep",
-          "no": "de sover"
+          "no": "de sover",
+          "progressIndex": 6
         },
         {
           "it": "io apro",
           "en": "I open",
-          "no": "jeg åpner"
+          "no": "jeg åpner",
+          "progressIndex": 7
         },
         {
           "it": "tu apri",
           "en": "you open",
-          "no": "du åpner"
+          "no": "du åpner",
+          "progressIndex": 8
         },
         {
           "it": "lui/lei apre",
           "en": "he/she opens",
-          "no": "han/hun åpner"
+          "no": "han/hun åpner",
+          "progressIndex": 9
         },
         {
           "it": "noi apriamo",
           "en": "we open",
-          "no": "vi åpner"
+          "no": "vi åpner",
+          "progressIndex": 10
         },
         {
           "it": "voi aprite",
           "en": "you (plural) open",
-          "no": "dere åpner"
+          "no": "dere åpner",
+          "progressIndex": 11
         },
         {
           "it": "loro aprono",
           "en": "they open",
-          "no": "de åpner"
+          "no": "de åpner",
+          "progressIndex": 12
         }
       ],
       "conjugations": [
@@ -1276,62 +1463,74 @@
         {
           "it": "io sono",
           "en": "I am",
-          "no": "jeg er"
+          "no": "jeg er",
+          "progressIndex": 0
         },
         {
           "it": "tu sei",
           "en": "you are",
-          "no": "du er"
+          "no": "du er",
+          "progressIndex": 1
         },
         {
           "it": "lui/lei è",
           "en": "he/she is",
-          "no": "han/hun er"
+          "no": "han/hun er",
+          "progressIndex": 2
         },
         {
           "it": "noi siamo",
           "en": "we are",
-          "no": "vi er"
-        },
-        {
-          "it": "io ho",
-          "en": "I have",
-          "no": "jeg har"
-        },
-        {
-          "it": "tu hai",
-          "en": "you have",
-          "no": "du har"
-        },
-        {
-          "it": "lui/lei ha",
-          "en": "he/she has",
-          "no": "han/hun har"
-        },
-        {
-          "it": "noi abbiamo",
-          "en": "we have",
-          "no": "vi har"
+          "no": "vi er",
+          "progressIndex": 3
         },
         {
           "it": "voi siete",
           "en": "you (plural) are",
-          "no": "dere er"
+          "no": "dere er",
+          "progressIndex": 8
         },
         {
           "it": "loro sono",
           "en": "they are",
-          "no": "de er"
+          "no": "de er",
+          "progressIndex": 9
+        },
+        {
+          "it": "io ho",
+          "en": "I have",
+          "no": "jeg har",
+          "progressIndex": 4
+        },
+        {
+          "it": "tu hai",
+          "en": "you have",
+          "no": "du har",
+          "progressIndex": 5
+        },
+        {
+          "it": "lui/lei ha",
+          "en": "he/she has",
+          "no": "han/hun har",
+          "progressIndex": 6
+        },
+        {
+          "it": "noi abbiamo",
+          "en": "we have",
+          "no": "vi har",
+          "progressIndex": 7
         },
         {
           "it": "voi avete",
           "en": "you (plural) have",
-          "no": "dere har"
+          "no": "dere har",
+          "progressIndex": 10
         },
         {
           "it": "loro hanno",
           "en": "they have",
-          "no": "de har"
+          "no": "de har",
+          "progressIndex": 11
         }
       ],
       "conjugations": [
@@ -1372,62 +1571,74 @@
         {
           "it": "io vado",
           "en": "I go",
-          "no": "jeg drar"
+          "no": "jeg drar",
+          "progressIndex": 0
         },
         {
           "it": "tu vai",
           "en": "you go",
-          "no": "du drar"
+          "no": "du drar",
+          "progressIndex": 1
         },
         {
           "it": "lui/lei va",
           "en": "he/she goes",
-          "no": "han/hun drar"
+          "no": "han/hun drar",
+          "progressIndex": 2
         },
         {
           "it": "noi andiamo",
           "en": "we go",
-          "no": "vi drar"
-        },
-        {
-          "it": "io vengo",
-          "en": "I come",
-          "no": "jeg kommer"
-        },
-        {
-          "it": "tu vieni",
-          "en": "you come",
-          "no": "du kommer"
-        },
-        {
-          "it": "lui/lei viene",
-          "en": "he/she comes",
-          "no": "han/hun kommer"
-        },
-        {
-          "it": "noi veniamo",
-          "en": "we come",
-          "no": "vi kommer"
+          "no": "vi drar",
+          "progressIndex": 3
         },
         {
           "it": "voi andate",
           "en": "you (plural) go",
-          "no": "dere drar"
+          "no": "dere drar",
+          "progressIndex": 8
         },
         {
           "it": "loro vanno",
           "en": "they go",
-          "no": "de drar"
+          "no": "de drar",
+          "progressIndex": 9
+        },
+        {
+          "it": "io vengo",
+          "en": "I come",
+          "no": "jeg kommer",
+          "progressIndex": 4
+        },
+        {
+          "it": "tu vieni",
+          "en": "you come",
+          "no": "du kommer",
+          "progressIndex": 5
+        },
+        {
+          "it": "lui/lei viene",
+          "en": "he/she comes",
+          "no": "han/hun kommer",
+          "progressIndex": 6
+        },
+        {
+          "it": "noi veniamo",
+          "en": "we come",
+          "no": "vi kommer",
+          "progressIndex": 7
         },
         {
           "it": "voi venite",
           "en": "you (plural) come",
-          "no": "dere kommer"
+          "no": "dere kommer",
+          "progressIndex": 10
         },
         {
           "it": "loro vengono",
           "en": "they come",
-          "no": "de kommer"
+          "no": "de kommer",
+          "progressIndex": 11
         }
       ],
       "conjugations": [
@@ -1468,32 +1679,38 @@
         {
           "it": "io faccio",
           "en": "I do/make",
-          "no": "jeg gjør/lager"
+          "no": "jeg gjør/lager",
+          "progressIndex": 0
         },
         {
           "it": "tu fai",
           "en": "you do/make",
-          "no": "du gjør/lager"
+          "no": "du gjør/lager",
+          "progressIndex": 1
         },
         {
           "it": "lui/lei fa",
           "en": "he/she does/makes",
-          "no": "han/hun gjør/lager"
+          "no": "han/hun gjør/lager",
+          "progressIndex": 2
         },
         {
           "it": "noi facciamo",
           "en": "we do/make",
-          "no": "vi gjør/lager"
+          "no": "vi gjør/lager",
+          "progressIndex": 3
         },
         {
           "it": "voi fate",
           "en": "you (plural) do/make",
-          "no": "dere gjør/lager"
+          "no": "dere gjør/lager",
+          "progressIndex": 4
         },
         {
           "it": "loro fanno",
           "en": "they do/make",
-          "no": "de gjør/lager"
+          "no": "de gjør/lager",
+          "progressIndex": 5
         }
       ],
       "conjugations": [
@@ -1522,27 +1739,32 @@
         {
           "it": "che cosa?",
           "en": "what?",
-          "no": "hva?"
+          "no": "hva?",
+          "progressIndex": 0
         },
         {
           "it": "come?",
           "en": "how?",
-          "no": "hvordan?"
+          "no": "hvordan?",
+          "progressIndex": 1
         },
         {
           "it": "dove?",
           "en": "where?",
-          "no": "hvor?"
+          "no": "hvor?",
+          "progressIndex": 2
         },
         {
           "it": "quando?",
           "en": "when?",
-          "no": "når?"
+          "no": "når?",
+          "progressIndex": 3
         },
         {
           "it": "perché?",
           "en": "why?",
-          "no": "hvorfor?"
+          "no": "hvorfor?",
+          "progressIndex": 4
         }
       ],
       "notes": "A question mark and intonation can turn a statement into a question without changing word order. Perché means why in a question and because in an answer; spell it with an acute accent."
@@ -1557,37 +1779,44 @@
         {
           "it": "chi?",
           "en": "who?",
-          "no": "hvem?"
+          "no": "hvem?",
+          "progressIndex": 0
         },
         {
           "it": "quale?",
           "en": "which?",
-          "no": "hvilken?"
+          "no": "hvilken?",
+          "progressIndex": 1
         },
         {
           "it": "quanto?",
           "en": "how much?",
-          "no": "hvor mye?"
+          "no": "hvor mye?",
+          "progressIndex": 2
         },
         {
           "it": "quanti?",
           "en": "how many?",
-          "no": "hvor mange?"
+          "no": "hvor mange?",
+          "progressIndex": 3
         },
         {
           "it": "come ti chiami?",
           "en": "what is your name?",
-          "no": "hva heter du?"
+          "no": "hva heter du?",
+          "progressIndex": 4
         },
         {
           "it": "quante?",
           "en": "how many? (feminine plural)",
-          "no": "hvor mange? (hunkjønn flertall)"
+          "no": "hvor mange? (hunkjønn flertall)",
+          "progressIndex": 5
         },
         {
           "it": "quali?",
           "en": "which? (plural)",
-          "no": "hvilke? (flertall)"
+          "no": "hvilke? (flertall)",
+          "progressIndex": 6
         }
       ],
       "notes": "Quale → quali agrees in number. Quanto changes with gender and number before a noun: quanto, quanta, quanti, quante. Use quante sigarette, not quanti sigarette."
@@ -1602,37 +1831,44 @@
         {
           "it": "non",
           "en": "not",
-          "no": "ikke"
+          "no": "ikke",
+          "progressIndex": 0
         },
         {
           "it": "non parlo",
           "en": "I do not speak",
-          "no": "jeg snakker ikke"
+          "no": "jeg snakker ikke",
+          "progressIndex": 1
         },
         {
           "it": "non lo so",
           "en": "I do not know",
-          "no": "jeg vet ikke"
+          "no": "jeg vet ikke",
+          "progressIndex": 2
         },
         {
           "it": "non ho fame",
           "en": "I am not hungry",
-          "no": "jeg er ikke sulten"
+          "no": "jeg er ikke sulten",
+          "progressIndex": 3
         },
         {
           "it": "non mangio mai",
           "en": "I never eat",
-          "no": "jeg spiser aldri"
+          "no": "jeg spiser aldri",
+          "progressIndex": 4
         },
         {
           "it": "non vedo niente",
           "en": "I see nothing",
-          "no": "jeg ser ingenting"
+          "no": "jeg ser ingenting",
+          "progressIndex": 5
         },
         {
           "it": "non parlo con nessuno",
           "en": "I speak to nobody",
-          "no": "jeg snakker ikke med noen"
+          "no": "jeg snakker ikke med noen",
+          "progressIndex": 6
         }
       ],
       "notes": "Put non before the verb. When mai, niente or nessuno follows the verb, non is normally also needed: non mangio mai; non vedo niente. This is normal Italian, not an error. Nessuno before the verb needs no non: nessuno parla."
@@ -1647,27 +1883,32 @@
         {
           "it": "dove sono gli studenti?",
           "en": "where are the students?",
-          "no": "hvor er studentene?"
+          "no": "hvor er studentene?",
+          "progressIndex": 0
         },
         {
           "it": "perché studi italiano?",
           "en": "why do you study Italian?",
-          "no": "hvorfor studerer du italiensk?"
+          "no": "hvorfor studerer du italiensk?",
+          "progressIndex": 1
         },
         {
           "it": "quanto costa?",
           "en": "how much does it cost?",
-          "no": "hvor mye koster det?"
+          "no": "hvor mye koster det?",
+          "progressIndex": 2
         },
         {
           "it": "come stai?",
           "en": "how are you?",
-          "no": "hvordan har du det?"
+          "no": "hvordan har du det?",
+          "progressIndex": 3
         },
         {
           "it": "chi è?",
           "en": "who is it?",
-          "no": "hvem er det?"
+          "no": "hvem er det?",
+          "progressIndex": 4
         }
       ],
       "notes": "Italian does not need English do/does to make a question. In quanto costa?, costa is third-person singular. Use costano for plural things."
@@ -1682,32 +1923,38 @@
         {
           "it": "bello",
           "en": "beautiful (masculine)",
-          "no": "vakker (hankjønn)"
+          "no": "vakker (hankjønn)",
+          "progressIndex": 0
         },
         {
           "it": "bella",
           "en": "beautiful (feminine)",
-          "no": "vakker (hunkjønn)"
+          "no": "vakker (hunkjønn)",
+          "progressIndex": 1
         },
         {
           "it": "piccolo",
           "en": "small (masculine)",
-          "no": "liten (hankjønn)"
+          "no": "liten (hankjønn)",
+          "progressIndex": 2
         },
         {
           "it": "piccola",
           "en": "small (feminine)",
-          "no": "liten (hunkjønn)"
+          "no": "liten (hunkjønn)",
+          "progressIndex": 3
         },
         {
           "it": "buono",
           "en": "good (masculine)",
-          "no": "god (hankjønn)"
+          "no": "god (hankjønn)",
+          "progressIndex": 4
         },
         {
           "it": "buona",
           "en": "good (feminine)",
-          "no": "god (hunkjønn)"
+          "no": "god (hunkjønn)",
+          "progressIndex": 5
         }
       ],
       "notes": "An adjective agrees with the noun’s gender and number. Basic -o adjectives have -o/-a/-i/-e forms. Bello and buono can change form before a noun; these cards teach their basic forms."
@@ -1722,32 +1969,38 @@
         {
           "it": "belli",
           "en": "beautiful (masculine plural)",
-          "no": "vakre (hankjønn flertall)"
+          "no": "vakre (hankjønn flertall)",
+          "progressIndex": 0
         },
         {
           "it": "belle",
           "en": "beautiful (feminine plural)",
-          "no": "vakre (hunkjønn flertall)"
+          "no": "vakre (hunkjønn flertall)",
+          "progressIndex": 1
         },
         {
           "it": "piccoli",
           "en": "small (masculine plural)",
-          "no": "små (hankjønn flertall)"
+          "no": "små (hankjønn flertall)",
+          "progressIndex": 2
         },
         {
           "it": "piccole",
           "en": "small (feminine plural)",
-          "no": "små (hunkjønn flertall)"
+          "no": "små (hunkjønn flertall)",
+          "progressIndex": 3
         },
         {
           "it": "buoni",
           "en": "good (masculine plural)",
-          "no": "gode (hankjønn flertall)"
+          "no": "gode (hankjønn flertall)",
+          "progressIndex": 4
         },
         {
           "it": "buone",
           "en": "good (feminine plural)",
-          "no": "gode (hunkjønn flertall)"
+          "no": "gode (hunkjønn flertall)",
+          "progressIndex": 5
         }
       ],
       "notes": "Use -i for masculine plural and -e for feminine plural with these -o adjectives. Agreement follows gender and number, not simply the noun’s final vowel."
@@ -1762,32 +2015,38 @@
         {
           "it": "grande",
           "en": "big (singular)",
-          "no": "stor"
+          "no": "stor",
+          "progressIndex": 0
         },
         {
           "it": "grandi",
           "en": "big (plural)",
-          "no": "store"
+          "no": "store",
+          "progressIndex": 1
         },
         {
           "it": "gentile",
           "en": "kind (singular)",
-          "no": "snill"
+          "no": "snill",
+          "progressIndex": 2
         },
         {
           "it": "gentili",
           "en": "kind (plural)",
-          "no": "snille"
+          "no": "snille",
+          "progressIndex": 3
         },
         {
           "it": "interessante",
           "en": "interesting (singular)",
-          "no": "interessant"
+          "no": "interessant",
+          "progressIndex": 4
         },
         {
           "it": "interessanti",
           "en": "interesting (plural)",
-          "no": "interessante (flertall)"
+          "no": "interessante (flertall)",
+          "progressIndex": 5
         }
       ],
       "notes": "Adjectives in -e have one singular form for both genders and a plural in -i: un ragazzo gentile, una ragazza gentile, persone gentili."
@@ -1802,22 +2061,26 @@
         {
           "it": "il ragazzo è bello",
           "en": "the boy is handsome",
-          "no": "gutten er kjekk"
+          "no": "gutten er kjekk",
+          "progressIndex": 0
         },
         {
           "it": "la ragazza è bella",
           "en": "the girl is beautiful",
-          "no": "jenta er vakker"
+          "no": "jenta er vakker",
+          "progressIndex": 1
         },
         {
           "it": "il ragazzo è gentile",
           "en": "the boy is kind",
-          "no": "gutten er snill"
+          "no": "gutten er snill",
+          "progressIndex": 2
         },
         {
           "it": "la ragazza è gentile",
           "en": "the girl is kind",
-          "no": "jenta er snill"
+          "no": "jenta er snill",
+          "progressIndex": 3
         }
       ],
       "notes": "Keep subject and verb in agreement: il ragazzo è, i ragazzi sono. Gentile works for both singular genders; bello changes to bella."
@@ -1832,42 +2095,50 @@
         {
           "it": "una casa grande",
           "en": "a big house",
-          "no": "et stort hus"
+          "no": "et stort hus",
+          "progressIndex": 0
         },
         {
           "it": "un ragazzo piccolo",
           "en": "a small boy",
-          "no": "en liten gutt"
+          "no": "en liten gutt",
+          "progressIndex": 1
         },
         {
           "it": "una ragazza brava",
           "en": "a capable girl",
-          "no": "en flink jente"
+          "no": "en flink jente",
+          "progressIndex": 2
         },
         {
           "it": "due bambini piccoli",
           "en": "two small children",
-          "no": "to små barn"
+          "no": "to små barn",
+          "progressIndex": 3
         },
         {
           "it": "due case grandi",
           "en": "two big houses",
-          "no": "to store hus"
+          "no": "to store hus",
+          "progressIndex": 4
         },
         {
           "it": "le penne sono rosse",
           "en": "the pens are red",
-          "no": "pennene er røde"
+          "no": "pennene er røde",
+          "progressIndex": 5
         },
         {
           "it": "i libri sono rossi",
           "en": "the books are red",
-          "no": "bøkene er røde"
+          "no": "bøkene er røde",
+          "progressIndex": 6
         },
         {
           "it": "le penne sono blu",
           "en": "the pens are blue",
-          "no": "pennene er blå"
+          "no": "pennene er blå",
+          "progressIndex": 7
         }
       ],
       "notes": "Bravo/brava commonly means good at something or capable, not simply intelligent. Many colour adjectives agree (rosso/rossa/rossi/rosse); blu, rosa, viola and lilla are invariable. See PDF p. 22."
@@ -1882,32 +2153,38 @@
         {
           "it": "io voglio",
           "en": "I want",
-          "no": "jeg vil"
+          "no": "jeg vil",
+          "progressIndex": 0
         },
         {
           "it": "tu vuoi",
           "en": "you want",
-          "no": "du vil"
+          "no": "du vil",
+          "progressIndex": 1
         },
         {
           "it": "lui/lei vuole",
           "en": "he/she wants",
-          "no": "han/hun vil"
+          "no": "han/hun vil",
+          "progressIndex": 2
         },
         {
           "it": "noi vogliamo",
           "en": "we want",
-          "no": "vi vil"
+          "no": "vi vil",
+          "progressIndex": 3
         },
         {
           "it": "voi volete",
           "en": "you (plural) want",
-          "no": "dere vil"
+          "no": "dere vil",
+          "progressIndex": 4
         },
         {
           "it": "loro vogliono",
           "en": "they want",
-          "no": "de vil"
+          "no": "de vil",
+          "progressIndex": 5
         }
       ],
       "conjugations": [
@@ -1936,32 +2213,38 @@
         {
           "it": "io posso",
           "en": "I can",
-          "no": "jeg kan"
+          "no": "jeg kan",
+          "progressIndex": 0
         },
         {
           "it": "tu puoi",
           "en": "you can",
-          "no": "du kan"
+          "no": "du kan",
+          "progressIndex": 1
         },
         {
           "it": "lui/lei può",
           "en": "he/she can",
-          "no": "han/hun kan"
+          "no": "han/hun kan",
+          "progressIndex": 2
         },
         {
           "it": "noi possiamo",
           "en": "we can",
-          "no": "vi kan"
+          "no": "vi kan",
+          "progressIndex": 3
         },
         {
           "it": "voi potete",
           "en": "you (plural) can",
-          "no": "dere kan"
+          "no": "dere kan",
+          "progressIndex": 4
         },
         {
           "it": "loro possono",
           "en": "they can",
-          "no": "de kan"
+          "no": "de kan",
+          "progressIndex": 5
         }
       ],
       "conjugations": [
@@ -1990,32 +2273,38 @@
         {
           "it": "io devo",
           "en": "I must",
-          "no": "jeg må"
+          "no": "jeg må",
+          "progressIndex": 0
         },
         {
           "it": "tu devi",
           "en": "you must",
-          "no": "du må"
+          "no": "du må",
+          "progressIndex": 1
         },
         {
           "it": "lui/lei deve",
           "en": "he/she must",
-          "no": "han/hun må"
+          "no": "han/hun må",
+          "progressIndex": 2
         },
         {
           "it": "noi dobbiamo",
           "en": "we must",
-          "no": "vi må"
+          "no": "vi må",
+          "progressIndex": 3
         },
         {
           "it": "voi dovete",
           "en": "you (plural) must",
-          "no": "dere må"
+          "no": "dere må",
+          "progressIndex": 4
         },
         {
           "it": "loro devono",
           "en": "they must",
-          "no": "de må"
+          "no": "de må",
+          "progressIndex": 5
         }
       ],
       "conjugations": [
@@ -2044,42 +2333,50 @@
         {
           "it": "io so",
           "en": "I know",
-          "no": "jeg vet"
+          "no": "jeg vet",
+          "progressIndex": 0
         },
         {
           "it": "tu sai",
           "en": "you know",
-          "no": "du vet"
+          "no": "du vet",
+          "progressIndex": 1
         },
         {
           "it": "lui/lei sa",
           "en": "he/she knows",
-          "no": "han/hun vet"
+          "no": "han/hun vet",
+          "progressIndex": 2
         },
         {
           "it": "noi sappiamo",
           "en": "we know",
-          "no": "vi vet"
+          "no": "vi vet",
+          "progressIndex": 3
         },
         {
           "it": "voi sapete",
           "en": "you (plural) know",
-          "no": "dere vet"
+          "no": "dere vet",
+          "progressIndex": 4
         },
         {
           "it": "loro sanno",
           "en": "they know",
-          "no": "de vet"
+          "no": "de vet",
+          "progressIndex": 5
         },
         {
           "it": "so nuotare",
           "en": "I know how to swim",
-          "no": "jeg kan svømme"
+          "no": "jeg kan svømme",
+          "progressIndex": 6
         },
         {
           "it": "so la risposta",
           "en": "I know the answer",
-          "no": "jeg vet svaret"
+          "no": "jeg vet svaret",
+          "progressIndex": 7
         }
       ],
       "conjugations": [
@@ -2108,27 +2405,32 @@
         {
           "it": "voglio parlare italiano",
           "en": "I want to speak Italian",
-          "no": "jeg vil snakke italiensk"
+          "no": "jeg vil snakke italiensk",
+          "progressIndex": 0
         },
         {
           "it": "puoi ripetere?",
           "en": "can you repeat?",
-          "no": "kan du gjenta?"
+          "no": "kan du gjenta?",
+          "progressIndex": 1
         },
         {
           "it": "devo studiare",
           "en": "I must study",
-          "no": "jeg må studere"
+          "no": "jeg må studere",
+          "progressIndex": 2
         },
         {
           "it": "so parlare italiano",
           "en": "I know how to speak Italian",
-          "no": "jeg kan snakke italiensk"
+          "no": "jeg kan snakke italiensk",
+          "progressIndex": 3
         },
         {
           "it": "voglio il gelato",
           "en": "I want ice cream",
-          "no": "jeg vil ha iskrem"
+          "no": "jeg vil ha iskrem",
+          "progressIndex": 4
         }
       ],
       "notes": "Conjugate the modal, leaving the following verb in the infinitive: voglio parlare, puoi ripetere, devo studiare, so parlare. Do not conjugate both verbs."
@@ -2143,27 +2445,32 @@
         {
           "it": "non posso",
           "en": "I cannot",
-          "no": "jeg kan ikke"
+          "no": "jeg kan ikke",
+          "progressIndex": 0
         },
         {
           "it": "devo lavorare",
           "en": "I have to work",
-          "no": "jeg må jobbe"
+          "no": "jeg må jobbe",
+          "progressIndex": 1
         },
         {
           "it": "puoi andare?",
           "en": "can you go?",
-          "no": "kan du dra?"
+          "no": "kan du dra?",
+          "progressIndex": 2
         },
         {
           "it": "la cena è pronta",
           "en": "dinner is ready",
-          "no": "middagen er klar"
+          "no": "middagen er klar",
+          "progressIndex": 3
         },
         {
           "it": "domani",
           "en": "tomorrow",
-          "no": "i morgen"
+          "no": "i morgen",
+          "progressIndex": 4
         }
       ],
       "notes": "These phrases are adapted from the message on PDF p. 30. Non posso gives inability, devo lavorare gives the reason, and puoi andare? asks for help."
@@ -2178,27 +2485,32 @@
         {
           "it": "fare colazione",
           "en": "to eat breakfast",
-          "no": "å spise frokost"
+          "no": "å spise frokost",
+          "progressIndex": 0
         },
         {
           "it": "fare una pausa",
           "en": "to take a break",
-          "no": "å ta en pause"
+          "no": "å ta en pause",
+          "progressIndex": 1
         },
         {
           "it": "fare una passeggiata",
           "en": "to take a walk",
-          "no": "å gå en tur"
+          "no": "å gå en tur",
+          "progressIndex": 2
         },
         {
           "it": "fare la spesa",
           "en": "to buy groceries",
-          "no": "å handle mat"
+          "no": "å handle mat",
+          "progressIndex": 3
         },
         {
           "it": "fare una doccia",
           "en": "to take a shower",
-          "no": "å dusje"
+          "no": "å dusje",
+          "progressIndex": 4
         }
       ],
       "notes": "Fare appears in fixed expressions. Fare colazione means eat breakfast, whereas preparare la colazione means prepare breakfast. Fare la spesa means grocery shopping."
@@ -2213,27 +2525,32 @@
         {
           "it": "che tempo fa?",
           "en": "what is the weather like?",
-          "no": "hvordan er været?"
+          "no": "hvordan er været?",
+          "progressIndex": 0
         },
         {
           "it": "fa caldo",
           "en": "it is hot",
-          "no": "det er varmt"
+          "no": "det er varmt",
+          "progressIndex": 1
         },
         {
           "it": "fa freddo",
           "en": "it is cold",
-          "no": "det er kaldt"
+          "no": "det er kaldt",
+          "progressIndex": 2
         },
         {
           "it": "fa bel tempo",
           "en": "the weather is nice",
-          "no": "det er fint vær"
+          "no": "det er fint vær",
+          "progressIndex": 3
         },
         {
           "it": "fa brutto tempo",
           "en": "the weather is bad",
-          "no": "det er dårlig vær"
+          "no": "det er dårlig vær",
+          "progressIndex": 4
         }
       ],
       "notes": "Weather expressions use impersonal third-person singular fa: fa caldo, fa freddo. To say you feel hot or cold, use ho caldo / ho freddo."
@@ -2248,27 +2565,32 @@
         {
           "it": "come va?",
           "en": "how is it going?",
-          "no": "hvordan går det?"
+          "no": "hvordan går det?",
+          "progressIndex": 0
         },
         {
           "it": "dov’è il bagno?",
           "en": "where is the bathroom?",
-          "no": "hvor er toalettet?"
+          "no": "hvor er toalettet?",
+          "progressIndex": 1
         },
         {
           "it": "quanto costa?",
           "en": "how much is it?",
-          "no": "hvor mye koster det?"
+          "no": "hvor mye koster det?",
+          "progressIndex": 2
         },
         {
           "it": "devo andare",
           "en": "I have to go",
-          "no": "jeg må dra"
+          "no": "jeg må dra",
+          "progressIndex": 3
         },
         {
           "it": "ci vediamo",
           "en": "see you",
-          "no": "vi sees"
+          "no": "vi sees",
+          "progressIndex": 4
         }
       ],
       "notes": "Review complete phrases aloud. Devo andare can mean I must go or I have to go. Quanto costa? asks how much it costs."
@@ -2283,32 +2605,38 @@
         {
           "it": "il libro",
           "en": "the book",
-          "no": "boken"
+          "no": "boken",
+          "progressIndex": 0
         },
         {
           "it": "i libri",
           "en": "the books",
-          "no": "bøkene"
+          "no": "bøkene",
+          "progressIndex": 1
         },
         {
           "it": "la casa",
           "en": "the house",
-          "no": "huset"
+          "no": "huset",
+          "progressIndex": 2
         },
         {
           "it": "le case",
           "en": "the houses",
-          "no": "husene"
+          "no": "husene",
+          "progressIndex": 3
         },
         {
           "it": "io sono",
           "en": "I am",
-          "no": "jeg er"
+          "no": "jeg er",
+          "progressIndex": 4
         },
         {
           "it": "io ho",
           "en": "I have",
-          "no": "jeg har"
+          "no": "jeg har",
+          "progressIndex": 5
         }
       ],
       "notes": "Check articles, noun number and verb person together: il libro → i libri, la casa → le case. Io sono means I am, while loro sono means they are."
@@ -2323,31 +2651,36 @@
         {
           "it": "voglio parlare italiano",
           "en": "I want to speak Italian",
-          "no": "jeg vil snakke italiensk"
+          "no": "jeg vil snakke italiensk",
+          "progressIndex": 0
         },
         {
           "it": "non lo so",
           "en": "I do not know",
-          "no": "jeg vet ikke"
+          "no": "jeg vet ikke",
+          "progressIndex": 1
         },
         {
           "it": "la ragazza è gentile",
           "en": "the girl is kind",
-          "no": "jenta er snill"
+          "no": "jenta er snill",
+          "progressIndex": 2
         },
         {
           "it": "posso andare?",
           "en": "can I go?",
-          "no": "kan jeg dra?"
+          "no": "kan jeg dra?",
+          "progressIndex": 3
         },
         {
           "it": "oggi fa caldo",
           "en": "it is hot today",
-          "no": "det er varmt i dag"
+          "no": "det er varmt i dag",
+          "progressIndex": 4
         }
       ],
       "notes": "Review agreement, negation and modal + infinitive patterns. Repeat missed cards; a quiz score checks these study items and is not an official A1 proficiency assessment."
     }
   ],
-  "version": "2026-11-19"
+  "version": "2026-11-19-r2"
 }
